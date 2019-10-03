@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "399205048776",
+    "firebase_url": "https://test-memechat.firebaseio.com",
+    "project_id": "test-memechat",
+    "storage_bucket": "test-memechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399205048776:android:e02be352ce794018",
+        "android_client_info": {
+          "package_name": "com.example.fire_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399205048776-gc4sqdnlk7spt89teomrv850qn0fgnjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YuYhyeE3FWzLkHD3pvfA_c99_YoIE0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399205048776-gc4sqdnlk7spt89teomrv850qn0fgnjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399205048776:android:c25b27008ff70f86",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399205048776-c5e8t0mrqq82qrvddis47ic67h4o2hr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_app",
+            "certificate_hash": "4c3e07e23658de0398d3583d107ee774bce7ceef"
+          }
+        },
+        {
+          "client_id": "399205048776-gc4sqdnlk7spt89teomrv850qn0fgnjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YuYhyeE3FWzLkHD3pvfA_c99_YoIE0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399205048776-gc4sqdnlk7spt89teomrv850qn0fgnjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
