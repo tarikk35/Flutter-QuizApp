@@ -4,12 +4,14 @@ This project was made from scratch by me in about a month. Currently I dont have
 
 ## Some features
 - Vivid and Simple Application Interface
+- Responsive Design (tested only for Android)
 - Some Basic Animations
 - Six Main Categories
 - Fourteen Different Profile Icons
 - Facebook - Google Login
 - Auto Login
 - Logout
+- Notification System (WIP)
 - Daily / Total Leaderboard
 - Current user's daily and total score
 - Avatar Picking
